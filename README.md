@@ -1,2 +1,2 @@
 # LAMPStack
-LAMPStack solution source code
+LAMPStack demo solution source code
