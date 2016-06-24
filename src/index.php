@@ -16,6 +16,7 @@
 </head>
 <body>
 <?php
+dsfsdfsdfsdfsdf
   require_once('customer.php');
   echo "<table>\n";
   foreach (get_sample_customers() as $customer) {
